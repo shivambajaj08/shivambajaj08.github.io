@@ -1,7 +1,3 @@
----
-title: "Project Descripts"
----
-
 Perimeter Defense
 ======
 In these works we consider perimeter defense problems in planar environments with robotic mobile defenders that seek to defend a perimeter from mobile intruders. We design and analyze multiple online algorithms for the defenders and provide a worst-case analysis of this problem. Specifically, we present a competitive analysis approach to these problems by measuring the performance of various online algorithms for the defenders against arbitrary inputs. We also establish necessary conditions on the parameter space to guarantee finite competitiveness of  any online algorithm.
