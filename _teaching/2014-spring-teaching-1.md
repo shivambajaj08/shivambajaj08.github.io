@@ -19,5 +19,3 @@ In these works, we consider min-max target tracking problems with multiple track
 
 Heading 3
 ======
-
-# ASD
