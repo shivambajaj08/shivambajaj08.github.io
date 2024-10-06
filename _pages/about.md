@@ -12,8 +12,7 @@ Hello! I am a post-docotral research scholar in the Elmore Family School of Elec
 
 # Recent news
 
-## 07/20/23: 
-Successfully passed my PhD defense
+__07/20/23:__ Successfully passed my PhD defense
 
 ## 08/15/2022
 Awarded a certificate in Leadership, Team Work and Communication
