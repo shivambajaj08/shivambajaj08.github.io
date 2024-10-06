@@ -25,7 +25,7 @@ __04/27/2024:__ Presented a poster at the 10th Midwest Workshop on Control and G
 
 __07/20/2023:__ Successfully passed my PhD defense
 
-__ 05/31/2023:__ Our Paper titled, "Perimeter defense using a turret with finite range and startup time" has been accepted for publication in the American Control Conference (ACC)
+__05/31/2023:__ Our Paper titled, "Perimeter defense using a turret with finite range and startup time" has been accepted for publication in the American Control Conference (ACC)
 
 __04/22/2023:__ Presented a poster at the 9th Midwest Workshop on Control and Game Theory
 
