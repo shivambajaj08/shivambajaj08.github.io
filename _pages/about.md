@@ -14,11 +14,13 @@ I completed my PhD in Electrical and Computer Engineering at Michigan State Univ
 
 # Recent news
 
+__04/01/2025:__ Presented a poster at the 2025 CERIAS Annual Cybersecurity Symposium at Purdue University
+
 __10/20/2024:__ Our paper titled, "Rationality of Learning Algorithms in Normal-Form Games" has been accepted for publication by IEEE Control Systems Letters (IEEE-LCSS)
 
 __05/30/2024:__ Our paper titled, "Ranodmized Competitive Perimeter Defense on a Line" has been accepted for publication by IEEE Control Systems Letters (IEEE-LCSS)
 
-__05/30/2024:__ Presented a poster at the 2024 CERIAS Annual Security Symposium Agenda at Purdue University
+__05/30/2024:__ Presented a poster at the 2024 CERIAS Annual Security Symposium at Purdue University
 
 __01/09/2024:__ Our Paper titled, "Multi-vehicle perimeter defense in conical environments" has been accepted for publication by IEEE Transactions on Robotics (IEEE-TRO)
 
