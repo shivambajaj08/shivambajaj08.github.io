@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a post-docotral research scholar in the Elmore Family School of Electrical and Computer Engineering at Purdue University under the supervision of Dr. Vijay Gupta. My research interests broadly lies in the intersection of dynamics and control systems, game theory, and reinforcement learning. 
-Currenlty, I am interested in developing a safe, scalable, and an efficient framework for multi-agent system that enables leveraging data from heterogeneous agents for safety-critical applications.
+Hello! I am a post-docotral research scholar in the Elmore Family School of Electrical and Computer Engineering at Purdue University under the supervision of Dr. Vijay Gupta. I am broadly interested in developing principled frameworks for complex large-scale systems (systems with high degree of freedom or many decision makers) which are robust to real-world disturbances and adversarial attacks.  My frameworks provide modeling, design, and analysis tools while enabling such systems to operate capably and safely. While I enjoy establishing theoretical properties of my frameworks, I also strongly believe in demonstrating their validity on real hardware platforms. My approach combines techniques from control theory, game theory, and reinforcement learning to address the fundamental challenges of scalability, uncertainty, and complexity in such systems.
 
-I completed my PhD in Electrical and Computer Engineering at Michigan State University under the supervision of Dr. Shaunak D. Bopardikar. As a PhD student and a part of the funded project by the Air Force Research Laboratory (AFRL) and Army Research Laboratory (ARL), I designed and analyzed online algorithms for coordinated motion planning of heterogeneous autonomous agents for perimeter defense applications. My algorithms had verifiable guarantees on the worst-case scenarios in terms of the number of adversarial agents that can be neutralized by the autonomous agents.
+I completed my PhD in Electrical and Computer Engineering at Michigan State University under the supervision of Dr. Shaunak D. Bopardikar. As a PhD student and a part of the funded project by the Air Force Research Laboratory (AFRL) and Army Research Laboratory (ARL), I designed and analyzed online algorithms for coordinated motion planning of heterogeneous autonomous agents for defense applications. My algorithms had verifiable guarantees on the worst-case scenarios in terms of the number of adversarial agents that can be neutralized by the autonomous agents.
 
 
 # Recent news
