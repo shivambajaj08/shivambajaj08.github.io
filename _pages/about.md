@@ -14,6 +14,10 @@ I completed my PhD in Electrical and Computer Engineering at Michigan State Univ
 
 # Recent news
 
+__04/11/2025:__ Our paper titled, "Competitive Perimeter Defense in Linear Environments" has been accepted for publication by Theoretical Computer Science
+
+__04/08/2025:__ Our paper titled, "Time-Optimal Trajectory of a Dubins Vehicle with a Controllable Laser" has been accepted for publication by IEEE Transactions on Automatic Control (IEEE-TAC)
+
 __04/01/2025:__ Presented a poster at the 2025 CERIAS Annual Cybersecurity Symposium at Purdue University
 
 __10/20/2024:__ Our paper titled, "Rationality of Learning Algorithms in Normal-Form Games" has been accepted for publication by IEEE Control Systems Letters (IEEE-LCSS)
