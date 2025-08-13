@@ -14,6 +14,10 @@ I completed my PhD in Electrical and Computer Engineering at Michigan State Univ
 
 # Recent news
 
+__08/06/2025:__ Attended an invited workshop for Future Faculty Fellows organized by Northeastern Univeristy
+
+__06/08/2025:__ Gave a talk titled, "Robust Modeling for Complex Large-Scale Systems" at University of Maryland, College park
+
 __04/11/2025:__ Our paper titled, "Competitive Perimeter Defense in Linear Environments" has been accepted for publication by Theoretical Computer Science
 
 __04/08/2025:__ Our paper titled, "Time-Optimal Trajectory of a Dubins Vehicle with a Controllable Laser" has been accepted for publication by IEEE Transactions on Automatic Control (IEEE-TAC)
