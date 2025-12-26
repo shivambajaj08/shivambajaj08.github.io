@@ -14,6 +14,8 @@ I completed my PhD in Electrical and Computer Engineering at Michigan State Univ
 
 # Recent news
 
+__09/23/2025:__ Gave a talk (Invited) titled, "Towards Designing Robust Smart Infrastructure Systems" at IEEE CSS Rising Star Symposium. Online available at: https://www.youtube.com/watch?v=Ifu6g-tkVEU.
+
 __08/06/2025:__ Attended an invited workshop for Future Faculty Fellows organized by Northeastern Univeristy
 
 __06/08/2025:__ Gave a talk titled, "Robust Modeling for Complex Large-Scale Systems" at University of Maryland, College park
