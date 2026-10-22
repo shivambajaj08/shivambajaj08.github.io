@@ -11,6 +11,7 @@ Hello! I am an Assistant Professor in the Department of Aerospace Engineering at
 
 $${\color{red}Note}:$$ I am actively looking for motivated students interested in solving problems related to control, optimization, machine learning, and multi-agent systems. Students who have a strong mathematical background in linear algebra and probability are encouraged to apply. If you fit this description, please feel free to email me with your CV.
 
+Previously,  I was a postdoctoral scholar in the School of Electrical and Computer Engineering at Purdue University from September 2023 to August 2026, where I worked with Professor Vijay Gupta. I received my Ph.D. in 2023 from the department of Electrical and Computer Engineering at Michigan State University where I was advised by Professor Shaunak D. Bopardikar.
 
 # Recent news
 
