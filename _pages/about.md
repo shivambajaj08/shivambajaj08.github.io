@@ -7,12 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a post-docotral research scholar in the Elmore Family School of Electrical and Computer Engineering at Purdue University under the supervision of Dr. Vijay Gupta. I am broadly interested in developing principled frameworks for complex large-scale systems (systems with high degree of freedom or many decision makers) which are robust to real-world disturbances and adversarial attacks.  My frameworks provide modeling, design, and analysis tools while enabling such systems to operate capably and safely. While I enjoy establishing theoretical properties of my frameworks, I also strongly believe in demonstrating their validity on real hardware platforms. My approach combines techniques from control theory, game theory, and reinforcement learning to address the fundamental challenges of scalability, uncertainty, and complexity in such systems.
+Hello! I am an Assistant Professor in the Department of Aerospace Engineering at Embry-Riddle Aeronautical University at Daytona Beach. I am broadly interested in developing principled frameworks for complex large-scale systems (systems with high degree of freedom or many decision makers) which are robust to real-world disturbances and adversarial attacks. My frameworks provide modeling, design, and analysis tools while enabling such systems to operate capably and safely. While I enjoy establishing theoretical properties of my frameworks, I also strongly believe in demonstrating their validity on real hardware platforms. My approach combines techniques from control theory, game theory, and reinforcement learning to address the fundamental challenges of scalability, uncertainty, and complexity in such systems.
 
-I completed my PhD in Electrical and Computer Engineering at Michigan State University under the supervision of Dr. Shaunak D. Bopardikar. As a PhD student and a part of the funded project by the Air Force Research Laboratory (AFRL) and Army Research Laboratory (ARL), I designed and analyzed online algorithms for coordinated motion planning of heterogeneous autonomous agents for defense applications. My algorithms had verifiable guarantees on the worst-case scenarios in terms of the number of adversarial agents that can be neutralized by the autonomous agents.
+$${\color{red}Note:$$ I am actively looking for motivated students interested in solving problems related to control, optimization, machine learning, and multi-agent systems. Students who have a strong mathematical background in linear algebra and probability are encouraged to apply. If you fit this description, please feel free to email me with your CV.
 
 
 # Recent news
+
+__10/20/2026:__ Our paper titled, "Leveraging Offline Data for Online Linear Quadratic Control" has been accepted for publication by IEEE Transactions on Automatic Control (IEEE-TAC)
+
+__10/13/2026:__ Our paper titled, "Personalized and Collaborative Online LQR via Thompson Sampling" has been accepted for publication at Neurips 2026
 
 __09/23/2025:__ Gave a talk (Invited) titled, "Towards Designing Robust Smart Infrastructure Systems" at IEEE CSS Rising Star Symposium. Online available at: https://www.youtube.com/watch?v=Ifu6g-tkVEU.
 
