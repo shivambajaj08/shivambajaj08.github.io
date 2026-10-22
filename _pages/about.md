@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I am an Assistant Professor in the Department of Aerospace Engineering at Embry-Riddle Aeronautical University at Daytona Beach. I am broadly interested in developing principled frameworks for complex large-scale systems (systems with high degree of freedom or many decision makers) which are robust to real-world disturbances and adversarial attacks. My frameworks provide modeling, design, and analysis tools while enabling such systems to operate capably and safely. While I enjoy establishing theoretical properties of my frameworks, I also strongly believe in demonstrating their validity on real hardware platforms. My approach combines techniques from control theory, game theory, and reinforcement learning to address the fundamental challenges of scalability, uncertainty, and complexity in such systems.
 
-$${\color{red}Note:$$ I am actively looking for motivated students interested in solving problems related to control, optimization, machine learning, and multi-agent systems. Students who have a strong mathematical background in linear algebra and probability are encouraged to apply. If you fit this description, please feel free to email me with your CV.
+$${\color{red}Note}:$$ I am actively looking for motivated students interested in solving problems related to control, optimization, machine learning, and multi-agent systems. Students who have a strong mathematical background in linear algebra and probability are encouraged to apply. If you fit this description, please feel free to email me with your CV.
 
 
 # Recent news
