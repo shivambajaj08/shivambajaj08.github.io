@@ -1,11 +1,11 @@
 ---
-title: "ME 410: Feedback Control Systems"
+title: "AERO 434: Spacecraft Controls"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2026-fall-me-410
-venue: "Department of Mechanical and Aerospace Engineering, University Name"
-date: 2026-08-24
-location: "City, State"
+// venue: "Department of Aerospace Engineering, University Name" 
+// date: 2026-08-24
+// location: "City, State"
 ---
 
 **Role:** Instructor of Record | **Term:** Fall 2026
