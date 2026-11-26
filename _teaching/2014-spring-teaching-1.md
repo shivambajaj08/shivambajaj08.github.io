@@ -2,6 +2,7 @@
 title: "AERO 434: Spacecraft Controls"
 collection: teaching
 type: "Undergraduate Course"
+venue: "Department of Aerospace Engineering, Embry-Riddle Aeronautical University"
 term: "Fall 2026"
 permalink: /teaching/2026-fall-aero-434
 ---
