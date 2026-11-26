@@ -11,9 +11,9 @@ Students learn to model dynamic systems, analyze stability and transient respons
 
 ### Key Topics & Components
 * **Modeling & Frequency/Root-Locus Design:** Transfer functions, Routh-Hurwitz stability criteria, root locus construction, and compensator design.
-<!--
 - **Hands-On Labs:** Simulation and verification exercises connecting mathematical models to physical system behavior.
 
+<!--
 ### Course Materials
 * [Syllabus (PDF)](/files/me410-syllabus.pdf)
 * [Lecture Notes & Examples](/files/me410-notes.pdf)
