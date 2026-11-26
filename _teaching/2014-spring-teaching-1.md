@@ -2,13 +2,9 @@
 title: "AERO 434: Spacecraft Controls"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/2026-fall-me-410
-// venue: "Department of Aerospace Engineering, University Name" 
-// date: 2026-08-24
-// location: "City, State"
+term: "Fall 2026"
+permalink: /teaching/2026-fall-aero-434
 ---
-
-**Role:** Instructor of Record | **Term:** Fall 2026
 
 Students learn to model dynamic systems, analyze stability and transient response, and design classical and state-space controllers through analytical derivations and simulation labs.
 
